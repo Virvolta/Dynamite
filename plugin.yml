@@ -1,0 +1,6 @@
+name: Dynamite
+main: VirVolta\Dynamite
+api: [3.0.0]
+author: VirVolta
+version: 0.1
+description: plugin dynamite
